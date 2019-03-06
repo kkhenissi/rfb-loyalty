@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "rfb.com.kkhenissi"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "rfbloyalty",
+        "packageName": "rfb.com.kkhenissi",
+        "packageFolder": "rfb/com/kkhenissi",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OWZjNTc5ZjBiZWIzMmRjYTlhZWYwMDQyYTNkOWE2YzI4OTNjYjRjN2U0NDA5Zjk0MDQ0YjZiMzA5OGU1OWZiMTdjYzMwNzExNzVhMDU1MjY4OTA2M2E0NDA4MTAzODRhODU2M2U4Njc3NDBkZGFjMzVhZDE2NDM0Zjc5NzAxM2E=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
